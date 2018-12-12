@@ -29,3 +29,7 @@ h1#pageTitle {
     font-weight: 300;
     width: 50%;
 }
+
+.section img {
+    max-width: 300px;
+}
