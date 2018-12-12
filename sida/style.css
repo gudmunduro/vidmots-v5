@@ -33,3 +33,7 @@ h1#pageTitle {
 img {
     max-width: 300px;
 }
+
+video {
+   margin 10px auto;
+}
