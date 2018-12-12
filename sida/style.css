@@ -35,5 +35,6 @@ img {
 }
 
 video {
-   margin 10px auto;
+   margin: 10px auto;
+   display: block;
 }
